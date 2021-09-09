@@ -216,7 +216,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="bin\settings\config.ini" />
-    <None Include="bin\settings\creativ.ini" />
     <None Include="build_demo\configs\randomwalk.ini">
       <Filter>build_demo\configs</Filter>
     </None>

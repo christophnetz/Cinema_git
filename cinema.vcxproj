@@ -296,7 +296,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="bin\settings\config.ini" />
-    <None Include="bin\settings\creativ.ini" />
     <CustomBuild Include="build_demo\build_demo.bat">
       <FileType>Document</FileType>
       <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
